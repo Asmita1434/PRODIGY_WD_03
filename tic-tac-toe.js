@@ -1,3 +1,4 @@
+
 const gameBoard = document.getElementById('gameBoard');
 const cells = document.querySelectorAll('.cell');
 const statusDiv = document.getElementById('status');
